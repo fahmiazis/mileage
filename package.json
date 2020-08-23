@@ -1,0 +1,23 @@
+{
+  "name": "mileage",
+  "version": "1.0.0",
+  "description": "Menghitung jarak",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahmiazis/mileage.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "Fahmi Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahmiazis/mileage/issues"
+  },
+  "homepage": "https://github.com/fahmiazis/mileage#readme"
+}
